@@ -2,3 +2,50 @@
   display: inline-flex;
   padding: 10px 0;
 }
+
+.player-card {
+  border-radius: 10px;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+}
+
+.hitter-0 {
+  background-image: url('/src/rickyhenderson.jpg');
+}
+
+.hitter-1 {
+  background-image: url('/src/kengriffeyjr.jpg');
+}
+
+.hitter-2 {
+  background-image: url('/src/barrybonds.jpg');
+}
+
+.hitter-3 {
+  background-image: url('/src/hankaaron.jpg');
+}
+
+.hitter-4 {
+  background-image: url('/src/baberuth.jpg');
+}
+
+.hitter-5 {
+  background-image: url('/src/peterose.jpg');
+}
+
+.hitter-6 {
+  background-image: url('/src/williemays.jpg');
+}
+
+.hitter-7 {
+  background-image: url('/src/stanmusial.jpg');
+}
+
+.hitter-8 {
+  background-image: url('/src/tedwilliams.jpg');
+}
+
+.hitter-9 {
+  background-image: url('/src/tycobb.jpg');
+}
