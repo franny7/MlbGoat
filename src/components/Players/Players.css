@@ -10,42 +10,84 @@
   margin: 10px;
 }
 
+/* Hitter images */
 .hitter-0 {
-  background-image: url('/src/rickyhenderson.jpg');
+  background-image: url('/src/images/rickyhenderson.jpg');
 }
 
 .hitter-1 {
-  background-image: url('/src/kengriffeyjr.jpg');
+  background-image: url('/src/images/kengriffeyjr.jpg');
 }
 
 .hitter-2 {
-  background-image: url('/src/barrybonds.jpg');
+  background-image: url('/src/images/barrybonds.jpg');
 }
 
 .hitter-3 {
-  background-image: url('/src/hankaaron.jpg');
+  background-image: url('/src/images/hankaaron.jpg');
 }
 
 .hitter-4 {
-  background-image: url('/src/baberuth.jpg');
+  background-image: url('/src/images/baberuth.jpg');
 }
 
 .hitter-5 {
-  background-image: url('/src/peterose.jpg');
+  background-image: url('/src/images/peterose.jpg');
 }
 
 .hitter-6 {
-  background-image: url('/src/williemays.jpg');
+  background-image: url('/src/images/williemays.jpg');
 }
 
 .hitter-7 {
-  background-image: url('/src/stanmusial.jpg');
+  background-image: url('/src/images/stanmusial.jpg');
 }
 
 .hitter-8 {
-  background-image: url('/src/tedwilliams.jpg');
+  background-image: url('/src/images/tedwilliams.jpg');
 }
 
 .hitter-9 {
-  background-image: url('/src/tycobb.jpg');
+  background-image: url('/src/images/tycobb.jpg');
+}
+
+/* Pitchers images */
+.pitcher-0 {
+  background-image: url('/src/images/bobgibson.jpg');
+}
+
+.pitcher-1 {
+  background-image: url('/src/images/walterjohnson.jpg');
+}
+
+.pitcher-2 {
+  background-image: url('/src/images/pedromartinez.jpg');
+}
+
+.pitcher-3 {
+  background-image: url('/src/images/tomseaver.jpg');
+}
+
+.pitcher-4 {
+  background-image: url('/src/images/gregmaddux.jpg');
+}
+
+.pitcher-5 {
+  background-image: url('/src/images/cyyoung.jpg');
+}
+
+.pitcher-6 {
+  background-image: url('/src/images/nolanryan.jpg');
+}
+
+.pitcher-7 {
+  background-image: url('/src/images/randyjohnson.jpg');
+}
+
+.pitcher-8 {
+  background-image: url('/src/images/sandykoufax.jpg');
+}
+
+.pitcher-9 {
+  background-image: url('/src/images/claytonkershaw.jpg');
 }
