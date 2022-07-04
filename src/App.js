@@ -4,6 +4,7 @@ import Header from './components/Header/Header';
 import Select from './components/Select/Select';
 import Hitters from './components/Players/Hitters';
 import Pitchers from './components/Players/Pitchers';
+import Summary from './components/Summary/Summary';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <Select />
       <Hitters />
       <Pitchers />
+      <Summary />
     </div>
   );
 }
