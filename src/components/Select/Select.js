@@ -5,8 +5,8 @@ const Players = () => {
   return (
     <div className='select'>
       <h2>Select A Category:</h2>
-      <button>Hitters</button>
-      <button>Pitchers</button>
+      <button>HITTERS</button>
+      <button>PITCHERS</button>
     </div>
   );
 };
